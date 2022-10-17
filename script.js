@@ -4,7 +4,7 @@
 // eslint-disable-next-line no-unused-vars
 const projectName = "tree-map";
 
-// Coded by @paycoguy & @Christian-Paul
+// Coded by @yellowflash2041
 const DATASETS = {
   videogames: {
     TITLE: "Video Game Sales",
